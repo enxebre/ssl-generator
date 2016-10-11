@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+set -o xtrace
 
 # define location of openssl binary manually since running this
 # script under Vagrant fails on some systems without it
