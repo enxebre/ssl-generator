@@ -1,6 +1,6 @@
 # Bash scripts for generate ssl certificates for kubernetes
 
-Scripts for generate and deploy ssl certificates mostly taken from https://github.com/coreos/coreos-kubernetes/tree/f6ad494c6b3ddfe127f95ef624f16e8e29821eff/lib
+Scripts to generate and deploy ssl certificates mostly taken from https://github.com/coreos/coreos-kubernetes/tree/f6ad494c6b3ddfe127f95ef624f16e8e29821eff/lib
 
 Example:
 
